@@ -9,15 +9,15 @@
 	"template": "tridex-printer.template.cfg",
 	"driverCountRequired": 9,
 	"sizes": {
-		"250": {
-			"x": 210,
+		"200": {
+			"x": 200,
 			"y": 250,
 			"z": 225
 		}
 	},
 	"bedMargin": {
-		"x": [72.25, 82.25],
-		"y": [0, 33.65]
+		"x": [77.25, 77.25],
+		"y": [0, 34]
 	},
 	"speedLimits": {
 		"basic": {
