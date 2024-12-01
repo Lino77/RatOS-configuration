@@ -70,53 +70,53 @@
 			{
 				"axis": "x",
 				"axisDescription": "The X axis motor for the left toolhead, located at the rear left of the printer",
-				"current": 0.5,
+				"current": 0.7,
 				"driver": "BTT-TMC2209-13",
 				"stepper": "LDO-35STH48-1684AH",
 				"rotationDistance": 40,
 				"microstepping": 16,
 				"homingSpeed": 50,
 				"performanceMode": {
-					"current": 0.8
+					"current": 0.9
 				}
 			},
 			{
 				"axis": "dual_carriage",
 				"axisDescription": "The X axis motor for the right toolhead, located at the rear right of the printer",
-				"current": 0.5,
+				"current": 0.7,
 				"driver": "BTT-TMC2209-13",
 				"stepper": "LDO-35STH48-1684AH",
 				"rotationDistance": 40,
 				"microstepping": 16,
 				"homingSpeed": 50,
 				"performanceMode": {
-					"current": 0.8
+					"current": 0.9
 				}
 			},
 			{
 				"axis": "y",
 				"axisDescription": "The left Y motor used for cartesian Y control in Hybrid CoreXY, located at the rear left of the printer",
-				"current": 0.5,
+				"current": 0.7,
 				"driver": "BTT-TMC2209-13",
 				"stepper": "LDO-35STH48-1684AH",
 				"rotationDistance": 40,
 				"microstepping": 16,
 				"homingSpeed": 50,
 				"performanceMode": {
-					"current": 0.8
+					"current": 0.9
 				}
 			},
 			{
 				"axis": "y1",
 				"axisDescription": "The right Y motor used for cartesian Y control in Hybrid CoreXY, located at the rear right of the printer",
-				"current": 0.5,
+				"current": 0.7,
 				"driver": "BTT-TMC2209-13",
 				"stepper": "LDO-35STH48-1684AH",
 				"rotationDistance": 40,
 				"microstepping": 16,
 				"homingSpeed": 50,
 				"performanceMode": {
-					"current": 0.8
+					"current": 0.9
 				}
 			},
 			{
